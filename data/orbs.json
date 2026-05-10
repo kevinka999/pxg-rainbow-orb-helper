@@ -1,0 +1,2425 @@
+[
+  {
+    "name": "ALTO MARE",
+    "locations": [
+      {
+        "id": 1,
+        "coordinates": {
+          "x": 2984,
+          "y": 31251,
+          "z": 6
+        }
+      },
+      {
+        "id": 2,
+        "coordinates": {
+          "x": 3108,
+          "y": 31360,
+          "z": 6
+        }
+      },
+      {
+        "id": 3,
+        "coordinates": {
+          "x": 3135,
+          "y": 31109,
+          "z": 6
+        }
+      }
+    ]
+  },
+  {
+    "name": "ARBOVILLE",
+    "locations": [
+      {
+        "id": 4,
+        "coordinates": {
+          "x": 2642,
+          "y": 30133,
+          "z": 6
+        }
+      },
+      {
+        "id": 5,
+        "coordinates": {
+          "x": 2684,
+          "y": 30111,
+          "z": 7
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 6,
+        "coordinates": {
+          "x": 2691,
+          "y": 30069,
+          "z": 6
+        }
+      },
+      {
+        "id": 7,
+        "coordinates": {
+          "x": 2642,
+          "y": 30004,
+          "z": 7
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 8,
+        "coordinates": {
+          "x": 2765,
+          "y": 30061,
+          "z": 4
+        }
+      }
+    ]
+  },
+  {
+    "name": "ASTRAL RUIN",
+    "locations": [
+      {
+        "id": 9,
+        "coordinates": {
+          "x": 3443,
+          "y": 30974,
+          "z": 6
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 10,
+        "coordinates": {
+          "x": 3350,
+          "y": 30969,
+          "z": 3
+        },
+        "description": "Fly"
+      }
+    ]
+  },
+  {
+    "name": "AZALEA",
+    "locations": [
+      {
+        "id": 11,
+        "coordinates": {
+          "x": 2973,
+          "y": 30873,
+          "z": 5
+        }
+      },
+      {
+        "id": 12,
+        "coordinates": {
+          "x": 3119,
+          "y": 30853,
+          "z": 5
+        }
+      },
+      {
+        "id": 13,
+        "coordinates": {
+          "x": 3180,
+          "y": 30799,
+          "z": 6
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 14,
+        "coordinates": {
+          "x": 3047,
+          "y": 30963,
+          "z": 6
+        }
+      },
+      {
+        "id": 15,
+        "coordinates": {
+          "x": 2988,
+          "y": 30920,
+          "z": 7
+        },
+        "description": "Descer de fly (2988, 30920, 5)"
+      },
+      {
+        "id": 16,
+        "coordinates": {
+          "x": 2943,
+          "y": 30924,
+          "z": 8
+        },
+        "description": "Dig - Fly"
+      },
+      {
+        "id": 17,
+        "coordinates": {
+          "x": 3025,
+          "y": 30857,
+          "z": 13
+        },
+        "description": "Entrar na cave da slowpokewell (sem ser a dg)"
+      },
+      {
+        "id": 18,
+        "coordinates": {
+          "x": 3045,
+          "y": 30849,
+          "z": 10
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 19,
+        "coordinates": {
+          "x": 3134,
+          "y": 30832,
+          "z": 15
+        },
+        "description": "Light en 3130, 30832, 14 → Dig"
+      },
+      {
+        "id": 20,
+        "coordinates": {
+          "x": 865,
+          "y": 30180,
+          "z": 5
+        },
+        "description": "Gym (donar)"
+      }
+    ]
+  },
+  {
+    "name": "BATTLE FRONTIER",
+    "locations": [
+      {
+        "id": 21,
+        "coordinates": {
+          "x": 2497,
+          "y": 30272,
+          "z": 6
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 22,
+        "coordinates": {
+          "x": 2468,
+          "y": 30330,
+          "z": 6
+        },
+        "description": "Fly"
+      }
+    ]
+  },
+  {
+    "name": "BLACKTHORN",
+    "locations": [
+      {
+        "id": 23,
+        "coordinates": {
+          "x": 3629,
+          "y": 30180,
+          "z": 8
+        },
+        "description": "Fly (baú)"
+      },
+      {
+        "id": 24,
+        "coordinates": {
+          "x": 3603,
+          "y": 30150,
+          "z": 9
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 25,
+        "coordinates": {
+          "x": 3576,
+          "y": 30186,
+          "z": 10
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 26,
+        "coordinates": {
+          "x": 3457,
+          "y": 30169,
+          "z": 7
+        }
+      },
+      {
+        "id": 27,
+        "coordinates": {
+          "x": 3405,
+          "y": 30207,
+          "z": 9
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 28,
+        "coordinates": {
+          "x": 3579,
+          "y": 30156,
+          "z": 4
+        }
+      },
+      {
+        "id": 29,
+        "coordinates": {
+          "x": 3458,
+          "y": 30210,
+          "z": 5
+        }
+      },
+      {
+        "id": 30,
+        "coordinates": {
+          "x": 3572,
+          "y": 30250,
+          "z": 5
+        }
+      },
+      {
+        "id": 31,
+        "coordinates": {
+          "x": 1017,
+          "y": 30181,
+          "z": 4
+        },
+        "description": "Gym (donar)"
+      }
+    ]
+  },
+  {
+    "name": "BLAZE ISLAND",
+    "locations": [
+      {
+        "id": 32,
+        "coordinates": {
+          "x": 3867,
+          "y": 29962,
+          "z": 4
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 33,
+        "coordinates": {
+          "x": 3844,
+          "y": 30100,
+          "z": 8
+        },
+        "description": "Fly"
+      }
+    ]
+  },
+  {
+    "name": "BLOSSOM ISLAND",
+    "locations": [
+      {
+        "id": 34,
+        "coordinates": {
+          "x": 3894,
+          "y": 30884,
+          "z": 5
+        }
+      },
+      {
+        "id": 35,
+        "coordinates": {
+          "x": 3970,
+          "y": 30855,
+          "z": 6
+        }
+      },
+      {
+        "id": 36,
+        "coordinates": {
+          "x": 3983,
+          "y": 30960,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "CHERRYGROVE",
+    "locations": [
+      {
+        "id": 37,
+        "coordinates": {
+          "x": 3430,
+          "y": 30453,
+          "z": 6
+        }
+      },
+      {
+        "id": 38,
+        "coordinates": {
+          "x": 3278,
+          "y": 30464,
+          "z": 6
+        }
+      },
+      {
+        "id": 39,
+        "coordinates": {
+          "x": 3220,
+          "y": 30434,
+          "z": 5
+        }
+      },
+      {
+        "id": 40,
+        "coordinates": {
+          "x": 3226,
+          "y": 30512,
+          "z": 6
+        }
+      }
+    ]
+  },
+  {
+    "name": "CIANWOOD",
+    "locations": [
+      {
+        "id": 41,
+        "coordinates": {
+          "x": 2293,
+          "y": 30786,
+          "z": 2
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 42,
+        "coordinates": {
+          "x": 2252,
+          "y": 30414,
+          "z": 6
+        }
+      },
+      {
+        "id": 43,
+        "coordinates": {
+          "x": 2296,
+          "y": 30692,
+          "z": 6
+        }
+      },
+      {
+        "id": 44,
+        "coordinates": {
+          "x": 2233,
+          "y": 30714,
+          "z": 4
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 45,
+        "coordinates": {
+          "x": 2217,
+          "y": 30898,
+          "z": 6
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 46,
+        "coordinates": {
+          "x": 2262,
+          "y": 30932,
+          "z": 6
+        },
+        "description": "Fly"
+      }
+    ]
+  },
+  {
+    "name": "CLIFF CAVE",
+    "locations": [
+      {
+        "id": 47,
+        "coordinates": {
+          "x": 2211,
+          "y": 30833,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "COCONUT ISLAND",
+    "locations": [
+      {
+        "id": 48,
+        "coordinates": {
+          "x": 2817,
+          "y": 31445,
+          "z": 5
+        },
+        "description": "Fly"
+      }
+    ]
+  },
+  {
+    "name": "DARK CAVE",
+    "locations": [
+      {
+        "id": 49,
+        "coordinates": {
+          "x": 3456,
+          "y": 30339,
+          "z": 4
+        }
+      },
+      {
+        "id": 50,
+        "coordinates": {
+          "x": 3492,
+          "y": 30310,
+          "z": 6
+        }
+      },
+      {
+        "id": 51,
+        "coordinates": {
+          "x": 3383,
+          "y": 30353,
+          "z": 9
+        },
+        "description": "Fly"
+      }
+    ]
+  },
+  {
+    "name": "DRAGON'S DEN",
+    "locations": [
+      {
+        "id": 52,
+        "coordinates": {
+          "x": 3227,
+          "y": 29758,
+          "z": 5
+        }
+      }
+    ]
+  },
+  {
+    "name": "DRAGONSTONE",
+    "locations": [
+      {
+        "id": 53,
+        "coordinates": {
+          "x": 3546,
+          "y": 30017,
+          "z": 2
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 54,
+        "coordinates": {
+          "x": 3578,
+          "y": 30011,
+          "z": 8
+        }
+      },
+      {
+        "id": 55,
+        "coordinates": {
+          "x": 3589,
+          "y": 30053,
+          "z": 9
+        }
+      }
+    ]
+  },
+  {
+    "name": "DUNES OF SILENCE",
+    "locations": [
+      {
+        "id": 56,
+        "coordinates": {
+          "x": 2368,
+          "y": 31308,
+          "z": 6
+        }
+      },
+      {
+        "id": 57,
+        "coordinates": {
+          "x": 2255,
+          "y": 31226,
+          "z": 4
+        }
+      },
+      {
+        "id": 58,
+        "coordinates": {
+          "x": 2433,
+          "y": 31232,
+          "z": 8
+        }
+      },
+      {
+        "id": 59,
+        "coordinates": {
+          "x": 2302,
+          "y": 31180,
+          "z": 5
+        }
+      }
+    ]
+  },
+  {
+    "name": "DUST ISLAND",
+    "locations": [
+      {
+        "id": 60,
+        "coordinates": {
+          "x": 4035,
+          "y": 29984,
+          "z": 6
+        }
+      }
+    ]
+  },
+  {
+    "name": "ECRUTEAK",
+    "locations": [
+      {
+        "id": 61,
+        "coordinates": {
+          "x": 3025,
+          "y": 30136,
+          "z": 2
+        }
+      },
+      {
+        "id": 62,
+        "coordinates": {
+          "x": 3016,
+          "y": 30129,
+          "z": 6
+        }
+      },
+      {
+        "id": 63,
+        "coordinates": {
+          "x": 2924,
+          "y": 30082,
+          "z": 9
+        },
+        "description": "Minigame gengar"
+      },
+      {
+        "id": 64,
+        "coordinates": {
+          "x": 2276,
+          "y": 29417,
+          "z": 6
+        },
+        "description": "Teatro kimono girls"
+      },
+      {
+        "id": 65,
+        "coordinates": {
+          "x": 3134,
+          "y": 30447,
+          "z": 11
+        },
+        "description": "Fly - árvore oca"
+      },
+      {
+        "id": 66,
+        "coordinates": {
+          "x": 3158,
+          "y": 30294,
+          "z": 13
+        },
+        "description": "Labirinto secreto (inicio 3147, 30380, 13)"
+      },
+      {
+        "id": 67,
+        "coordinates": {
+          "x": 3005,
+          "y": 30235,
+          "z": 6
+        }
+      },
+      {
+        "id": 68,
+        "coordinates": {
+          "x": 2866,
+          "y": 30072,
+          "z": 6
+        }
+      },
+      {
+        "id": 69,
+        "coordinates": {
+          "x": 3083,
+          "y": 30301,
+          "z": 13
+        },
+        "description": "Dig"
+      },
+      {
+        "id": 70,
+        "coordinates": {
+          "x": 3004,
+          "y": 30251,
+          "z": 13
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 71,
+        "coordinates": {
+          "x": 2912,
+          "y": 30229,
+          "z": 5
+        },
+        "description": "Dig"
+      },
+      {
+        "id": 72,
+        "coordinates": {
+          "x": 325,
+          "y": 30210,
+          "z": 6
+        },
+        "description": "Gym (donar)"
+      },
+      {
+        "id": 73,
+        "coordinates": {
+          "x": 2933,
+          "y": 30157,
+          "z": 7
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 74,
+        "coordinates": {
+          "x": 3117,
+          "y": 30243,
+          "z": 13
+        },
+        "description": "Dig + Fly (spikes)"
+      }
+    ]
+  },
+  {
+    "name": "FISHING SPOT",
+    "locations": [
+      {
+        "id": 75,
+        "coordinates": {
+          "x": 3048,
+          "y": 30656,
+          "z": 7
+        }
+      },
+      {
+        "id": 76,
+        "coordinates": {
+          "x": 2983,
+          "y": 30713,
+          "z": 6
+        },
+        "description": "Dig"
+      }
+    ]
+  },
+  {
+    "name": "FORGOTTEN ISLAND",
+    "locations": [
+      {
+        "id": 77,
+        "coordinates": {
+          "x": 2640,
+          "y": 31346,
+          "z": 6
+        }
+      },
+      {
+        "id": 78,
+        "coordinates": {
+          "x": 2607,
+          "y": 31318,
+          "z": 11
+        }
+      },
+      {
+        "id": 79,
+        "coordinates": {
+          "x": 2628,
+          "y": 31336,
+          "z": 12
+        },
+        "description": "Donar minigame 5 fragmentos. (1 na garrafa no mar: (2616, 31357, 6) 2 (2653, 31355, 8) 3 (2633, 31362, 9) 4 (2628, 31361, 10) 5 usar light na grade (2637, 31333, 10) depois soh levar o completo aki (2650, 31359, 8))"
+      }
+    ]
+  },
+  {
+    "name": "GOLDENROD",
+    "locations": [
+      {
+        "id": 80,
+        "coordinates": {
+          "x": 2796,
+          "y": 30456,
+          "z": 5
+        }
+      },
+      {
+        "id": 81,
+        "coordinates": {
+          "x": 3069,
+          "y": 30547,
+          "z": 6
+        }
+      },
+      {
+        "id": 82,
+        "coordinates": {
+          "x": 2827,
+          "y": 30623,
+          "z": 7
+        }
+      },
+      {
+        "id": 83,
+        "coordinates": {
+          "x": 1163,
+          "y": 28664,
+          "z": 8
+        },
+        "description": "Minigame Radio Tower (laser)"
+      },
+      {
+        "id": 84,
+        "coordinates": {
+          "x": 1802,
+          "y": 28702,
+          "z": 3
+        },
+        "description": "Donar Radio Tower"
+      },
+      {
+        "id": 85,
+        "coordinates": {
+          "x": 2855,
+          "y": 30580,
+          "z": 1
+        }
+      },
+      {
+        "id": 86,
+        "coordinates": {
+          "x": 2952,
+          "y": 30712,
+          "z": 6
+        }
+      },
+      {
+        "id": 87,
+        "coordinates": {
+          "x": 2928,
+          "y": 30672,
+          "z": 2
+        },
+        "description": "Hunt fada (fly 2927, 30674, 3)"
+      },
+      {
+        "id": 88,
+        "coordinates": {
+          "x": 2785,
+          "y": 30690,
+          "z": 6
+        }
+      },
+      {
+        "id": 89,
+        "coordinates": {
+          "x": 2888,
+          "y": 30574,
+          "z": 7
+        }
+      },
+      {
+        "id": 90,
+        "coordinates": {
+          "x": 2843,
+          "y": 30406,
+          "z": 9
+        },
+        "description": "Dig"
+      }
+    ]
+  },
+  {
+    "name": "ILLEX FOREST",
+    "locations": [
+      {
+        "id": 91,
+        "coordinates": {
+          "x": 2841,
+          "y": 30822,
+          "z": 6
+        },
+        "description": "Minigame flores"
+      },
+      {
+        "id": 92,
+        "coordinates": {
+          "x": 2835,
+          "y": 30814,
+          "z": 6
+        }
+      },
+      {
+        "id": 93,
+        "coordinates": {
+          "x": 2802,
+          "y": 30882,
+          "z": 6
+        }
+      }
+    ]
+  },
+  {
+    "name": "INDIGO PLATEAU",
+    "locations": [
+      {
+        "id": 94,
+        "coordinates": {
+          "x": 3835,
+          "y": 30166,
+          "z": 6
+        }
+      },
+      {
+        "id": 95,
+        "coordinates": {
+          "x": 310,
+          "y": 32646,
+          "z": 5
+        },
+        "description": "Sala campeón Liga Johto"
+      }
+    ]
+  },
+  {
+    "name": "LAKE OF LIFE",
+    "locations": [
+      {
+        "id": 96,
+        "coordinates": {
+          "x": 5925,
+          "y": 29655,
+          "z": 7
+        },
+        "description": "Tras Kleavor (Time Traveller)"
+      },
+      {
+        "id": 97,
+        "coordinates": {
+          "x": 2709,
+          "y": 29970,
+          "z": 6
+        },
+        "description": "Tras Kleavor (Time Traveller)"
+      }
+    ]
+  },
+  {
+    "name": "LAKE OF RAGE",
+    "locations": [
+      {
+        "id": 98,
+        "coordinates": {
+          "x": 3430,
+          "y": 29995,
+          "z": 4
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 99,
+        "coordinates": {
+          "x": 3382,
+          "y": 29891,
+          "z": 5
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 100,
+        "coordinates": {
+          "x": 3257,
+          "y": 29914,
+          "z": 6
+        }
+      },
+      {
+        "id": 101,
+        "coordinates": {
+          "x": 3239,
+          "y": 30026,
+          "z": 6
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 102,
+        "coordinates": {
+          "x": 3340,
+          "y": 29933,
+          "z": 7
+        },
+        "description": "Surf"
+      },
+      {
+        "id": 103,
+        "coordinates": {
+          "x": 3255,
+          "y": 30084,
+          "z": 6
+        }
+      }
+    ]
+  },
+  {
+    "name": "LOST RUINS",
+    "locations": [
+      {
+        "id": 104,
+        "coordinates": {
+          "x": 1782,
+          "y": 30001,
+          "z": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "MAHOGANY",
+    "locations": [
+      {
+        "id": 105,
+        "coordinates": {
+          "x": 3268,
+          "y": 30186,
+          "z": 6
+        }
+      },
+      {
+        "id": 106,
+        "coordinates": {
+          "x": 3458,
+          "y": 30216,
+          "z": 6
+        }
+      },
+      {
+        "id": 107,
+        "coordinates": {
+          "x": 3297,
+          "y": 30154,
+          "z": 6
+        },
+        "description": "Fly"
+      }
+    ]
+  },
+  {
+    "name": "NATIONAL PARK",
+    "locations": [
+      {
+        "id": 108,
+        "coordinates": {
+          "x": 2945,
+          "y": 30292,
+          "z": 6
+        }
+      }
+    ]
+  },
+  {
+    "name": "MOOMOO FARM",
+    "locations": [
+      {
+        "id": 109,
+        "coordinates": {
+          "x": 2604,
+          "y": 30250,
+          "z": 4
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 110,
+        "coordinates": {
+          "x": 2660,
+          "y": 30182,
+          "z": 5
+        }
+      },
+      {
+        "id": 111,
+        "coordinates": {
+          "x": 2608,
+          "y": 30340,
+          "z": 7
+        },
+        "description": "Dig (2600, 30327, 6)"
+      },
+      {
+        "id": 112,
+        "coordinates": {
+          "x": 2820,
+          "y": 30273,
+          "z": 5
+        },
+        "description": "Fly"
+      }
+    ]
+  },
+  {
+    "name": "MT EMBER",
+    "locations": [
+      {
+        "id": 113,
+        "coordinates": {
+          "x": 3647,
+          "y": 31186,
+          "z": 1
+        }
+      },
+      {
+        "id": 114,
+        "coordinates": {
+          "x": 3626,
+          "y": 31125,
+          "z": 5
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 115,
+        "coordinates": {
+          "x": 3672,
+          "y": 31222,
+          "z": 4
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 116,
+        "coordinates": {
+          "x": 3638,
+          "y": 31300,
+          "z": 4
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 117,
+        "coordinates": {
+          "x": 3758,
+          "y": 31155,
+          "z": 4
+        },
+        "description": "Fly"
+      }
+    ]
+  },
+  {
+    "name": "MT SILVER",
+    "locations": [
+      {
+        "id": 118,
+        "coordinates": {
+          "x": 1092,
+          "y": 36871,
+          "z": 2
+        },
+        "description": "sereno pelo balão - dragonite"
+      },
+      {
+        "id": 119,
+        "coordinates": {
+          "x": 1073,
+          "y": 37044,
+          "z": 5
+        },
+        "description": "sereno pelo balão - ampharos"
+      },
+      {
+        "id": 120,
+        "coordinates": {
+          "x": 1059,
+          "y": 36479,
+          "z": 4
+        },
+        "description": "sereno pela cave - Misdreavus"
+      },
+      {
+        "id": 121,
+        "coordinates": {
+          "x": 945,
+          "y": 36455,
+          "z": 4
+        },
+        "description": "sereno pela cave - caminho mais perto é pela hunt de misdreavus"
+      },
+      {
+        "id": 122,
+        "coordinates": {
+          "x": 1279,
+          "y": 36961,
+          "z": 5
+        },
+        "description": "Caminho na montanha hunt Misdreavus"
+      },
+      {
+        "id": 123,
+        "coordinates": {
+          "x": 1064,
+          "y": 36894,
+          "z": 5
+        },
+        "description": "sereno pelo balão - granbull"
+      },
+      {
+        "id": 124,
+        "coordinates": {
+          "x": 938,
+          "y": 36611,
+          "z": 6
+        },
+        "description": "sereno pela cave - quagsire"
+      },
+      {
+        "id": 125,
+        "coordinates": {
+          "x": 884,
+          "y": 36592,
+          "z": 7
+        },
+        "description": "sereno pela cave - transporte quagsire"
+      },
+      {
+        "id": 126,
+        "coordinates": {
+          "x": 836,
+          "y": 36535,
+          "z": 8
+        },
+        "description": "sereno pela cave - Dig - quagsire"
+      },
+      {
+        "id": 127,
+        "coordinates": {
+          "x": 924,
+          "y": 36460,
+          "z": 6
+        },
+        "description": "sereno pela cave - Dig - quagsire"
+      },
+      {
+        "id": 128,
+        "coordinates": {
+          "x": 662,
+          "y": 36561,
+          "z": 5
+        },
+        "description": "sereno pela cave - parasect"
+      },
+      {
+        "id": 129,
+        "coordinates": {
+          "x": 946,
+          "y": 36399,
+          "z": 5
+        },
+        "description": "sereno pela cave - caminho na montanha ursarig"
+      },
+      {
+        "id": 130,
+        "coordinates": {
+          "x": 773,
+          "y": 36259,
+          "z": 5
+        },
+        "description": "sereno pela cave - crobat"
+      },
+      {
+        "id": 131,
+        "coordinates": {
+          "x": 980,
+          "y": 37070,
+          "z": 3
+        },
+        "description": "sereno pelo balão - transporte bellossom / primeape"
+      },
+      {
+        "id": 132,
+        "coordinates": {
+          "x": 1163,
+          "y": 36984,
+          "z": 4
+        },
+        "description": "sereno pelo balão - bellossom"
+      },
+      {
+        "id": 133,
+        "coordinates": {
+          "x": 904,
+          "y": 37037,
+          "z": 4
+        },
+        "description": "sereno pelo balão - primeape"
+      },
+      {
+        "id": 134,
+        "coordinates": {
+          "x": 675,
+          "y": 37021,
+          "z": 5
+        },
+        "description": "sereno pelo balão - transporte rapidash / houndoom"
+      },
+      {
+        "id": 135,
+        "coordinates": {
+          "x": 906,
+          "y": 37256,
+          "z": 5
+        },
+        "description": "sereno pelo balão - rapidash"
+      },
+      {
+        "id": 136,
+        "coordinates": {
+          "x": 818,
+          "y": 36822,
+          "z": 5
+        },
+        "description": "sereno pelo balão - houndoom"
+      },
+      {
+        "id": 137,
+        "coordinates": {
+          "x": 1187,
+          "y": 36851,
+          "z": 4
+        },
+        "description": "sereno pelo balão - heracross"
+      },
+      {
+        "id": 138,
+        "coordinates": {
+          "x": 1159,
+          "y": 36831,
+          "z": 7
+        },
+        "description": "sereno pelo balão - Dig e Rock Smash - heracross"
+      },
+      {
+        "id": 139,
+        "coordinates": {
+          "x": 850,
+          "y": 37179,
+          "z": 6
+        },
+        "description": "sereno pelo balão - Dig e Rock Smash - rapidash"
+      },
+      {
+        "id": 140,
+        "coordinates": {
+          "x": 907,
+          "y": 36519,
+          "z": 5
+        },
+        "description": "sereno pela cave - transporte donphan"
+      },
+      {
+        "id": 141,
+        "coordinates": {
+          "x": 1123,
+          "y": 36621,
+          "z": 7
+        },
+        "description": "sereno pela cave - Qwilfish"
+      },
+      {
+        "id": 142,
+        "coordinates": {
+          "x": 731,
+          "y": 36448,
+          "z": 6
+        },
+        "description": "sereno pela cave - kingdra"
+      },
+      {
+        "id": 143,
+        "coordinates": {
+          "x": 896,
+          "y": 36910,
+          "z": 4
+        },
+        "description": "sereno pelo balão - arbok"
+      },
+      {
+        "id": 144,
+        "coordinates": {
+          "x": 1076,
+          "y": 36758,
+          "z": 5
+        },
+        "description": "sereno pelo balão - granbull"
+      },
+      {
+        "id": 145,
+        "coordinates": {
+          "x": 930,
+          "y": 37016,
+          "z": 2
+        },
+        "description": "sereno pelo balão - delibird"
+      },
+      {
+        "id": 146,
+        "coordinates": {
+          "x": 1167,
+          "y": 36601,
+          "z": 6
+        },
+        "description": "sereno pela cave - Steelix"
+      },
+      {
+        "id": 147,
+        "coordinates": {
+          "x": 1135,
+          "y": 36433,
+          "z": 5
+        },
+        "description": "sereno pela cave - transporte steelix"
+      },
+      {
+        "id": 148,
+        "coordinates": {
+          "x": 1113,
+          "y": 36417,
+          "z": 5
+        },
+        "description": "sereno pela cave - Gliscor"
+      },
+      {
+        "id": 149,
+        "coordinates": {
+          "x": 1134,
+          "y": 36597,
+          "z": 5
+        },
+        "description": "sereno pela cave - Ursaring"
+      },
+      {
+        "id": 150,
+        "coordinates": {
+          "x": 1014,
+          "y": 36331,
+          "z": 4
+        },
+        "description": "sereno pela cave - transporte Gliscor"
+      },
+      {
+        "id": 151,
+        "coordinates": {
+          "x": 712,
+          "y": 36261,
+          "z": 4
+        },
+        "description": "sereno pela cave - Weavile"
+      },
+      {
+        "id": 152,
+        "coordinates": {
+          "x": 746,
+          "y": 36526,
+          "z": 4
+        },
+        "description": "sereno pela cave - Lapras"
+      },
+      {
+        "id": 153,
+        "coordinates": {
+          "x": 2806,
+          "y": 36267,
+          "z": 1
+        },
+        "description": "Donar Main Quest - NPC Red"
+      },
+      {
+        "id": 154,
+        "coordinates": {
+          "x": 825,
+          "y": 36673,
+          "z": 6
+        },
+        "description": "sereno pela cave - Golduck"
+      },
+      {
+        "id": 155,
+        "coordinates": {
+          "x": 2226,
+          "y": 36608,
+          "z": 6
+        },
+        "description": "selvagem pela cave - steelix"
+      },
+      {
+        "id": 156,
+        "coordinates": {
+          "x": 1118,
+          "y": 36338,
+          "z": 6
+        },
+        "description": "sereno pela cave - tyranitar"
+      },
+      {
+        "id": 157,
+        "coordinates": {
+          "x": 830,
+          "y": 36357,
+          "z": 4
+        },
+        "description": "sereno pela cave - transporte crobat"
+      }
+    ]
+  },
+  {
+    "name": "MT. MORTAR",
+    "locations": [
+      {
+        "id": 158,
+        "coordinates": {
+          "x": 3138,
+          "y": 30092,
+          "z": 2
+        }
+      },
+      {
+        "id": 159,
+        "coordinates": {
+          "x": 3239,
+          "y": 30131,
+          "z": 6
+        }
+      },
+      {
+        "id": 160,
+        "coordinates": {
+          "x": 3270,
+          "y": 30138,
+          "z": 2
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 161,
+        "coordinates": {
+          "x": 3565,
+          "y": 29723,
+          "z": 1
+        },
+        "description": "Dentro da cave - Fly"
+      },
+      {
+        "id": 162,
+        "coordinates": {
+          "x": 3508,
+          "y": 29663,
+          "z": 5
+        },
+        "description": "Cave (lago Tyrogue)"
+      },
+      {
+        "id": 163,
+        "coordinates": {
+          "x": 3465,
+          "y": 29802,
+          "z": 5
+        },
+        "description": "Mover pedra (baú secreto)"
+      }
+    ]
+  },
+  {
+    "name": "NEW BARK",
+    "locations": [
+      {
+        "id": 164,
+        "coordinates": {
+          "x": 3537,
+          "y": 30452,
+          "z": 6
+        },
+        "description": "Falar com professor"
+      },
+      {
+        "id": 165,
+        "coordinates": {
+          "x": 3463,
+          "y": 30510,
+          "z": 7
+        }
+      },
+      {
+        "id": 166,
+        "coordinates": {
+          "x": 3631,
+          "y": 30571,
+          "z": 6
+        }
+      },
+      {
+        "id": 167,
+        "coordinates": {
+          "x": 3674,
+          "y": 30524,
+          "z": 6
+        }
+      },
+      {
+        "id": 168,
+        "coordinates": {
+          "x": 3668,
+          "y": 30456,
+          "z": 4
+        }
+      },
+      {
+        "id": 169,
+        "coordinates": {
+          "x": 3601,
+          "y": 30569,
+          "z": 7
+        }
+      },
+      {
+        "id": 170,
+        "coordinates": {
+          "x": 3639,
+          "y": 30401,
+          "z": 6
+        }
+      },
+      {
+        "id": 171,
+        "coordinates": {
+          "x": 3512,
+          "y": 30437,
+          "z": 4
+        }
+      },
+      {
+        "id": 172,
+        "coordinates": {
+          "x": 3606,
+          "y": 30445,
+          "z": 2
+        },
+        "description": "Fly"
+      }
+    ]
+  },
+  {
+    "name": "OLIVINE",
+    "locations": [
+      {
+        "id": 173,
+        "coordinates": {
+          "x": 2722,
+          "y": 30357,
+          "z": 6
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 174,
+        "coordinates": {
+          "x": 2625,
+          "y": 30428,
+          "z": 6
+        },
+        "description": "Minigame limpiar playa"
+      },
+      {
+        "id": 175,
+        "coordinates": {
+          "x": 2653,
+          "y": 30414,
+          "z": 6
+        },
+        "description": "Minigame faro (palancas)"
+      },
+      {
+        "id": 176,
+        "coordinates": {
+          "x": 2861,
+          "y": 30281,
+          "z": 7
+        },
+        "description": "Dig"
+      },
+      {
+        "id": 177,
+        "coordinates": {
+          "x": 2734,
+          "y": 30318,
+          "z": 7
+        },
+        "description": "Dig"
+      },
+      {
+        "id": 178,
+        "coordinates": {
+          "x": 2756,
+          "y": 30422,
+          "z": 8
+        }
+      },
+      {
+        "id": 179,
+        "coordinates": {
+          "x": 2563,
+          "y": 30340,
+          "z": 12
+        },
+        "description": "Fly (entrada alcantarilla Ampharos)"
+      }
+    ]
+  },
+  {
+    "name": "PALM HILLS",
+    "locations": [
+      {
+        "id": 180,
+        "coordinates": {
+          "x": 3434,
+          "y": 30591,
+          "z": 4
+        }
+      },
+      {
+        "id": 181,
+        "coordinates": {
+          "x": 3422,
+          "y": 30586,
+          "z": 4
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 182,
+        "coordinates": {
+          "x": 3440,
+          "y": 30634,
+          "z": 13
+        },
+        "description": "Mansión (mover caja → ralo)"
+      },
+      {
+        "id": 183,
+        "coordinates": {
+          "x": 3461,
+          "y": 30635,
+          "z": 9
+        },
+        "description": "Mansión"
+      }
+    ]
+  },
+  {
+    "name": "PALM ISLAND",
+    "locations": [
+      {
+        "id": 184,
+        "coordinates": {
+          "x": 2623,
+          "y": 31132,
+          "z": 6
+        }
+      },
+      {
+        "id": 185,
+        "coordinates": {
+          "x": 2673,
+          "y": 31157,
+          "z": 7
+        },
+        "description": "Surf"
+      }
+    ]
+  },
+  {
+    "name": "QUIET ISLAND",
+    "locations": [
+      {
+        "id": 186,
+        "coordinates": {
+          "x": 4009,
+          "y": 31367,
+          "z": 5
+        },
+        "description": "Fly"
+      }
+    ]
+  },
+  {
+    "name": "RUINS OF ALPH",
+    "locations": [
+      {
+        "id": 187,
+        "coordinates": {
+          "x": 2844,
+          "y": 30534,
+          "z": 10
+        }
+      },
+      {
+        "id": 188,
+        "coordinates": {
+          "x": 2974,
+          "y": 30463,
+          "z": 6
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 189,
+        "coordinates": {
+          "x": 2985,
+          "y": 30495,
+          "z": 7
+        },
+        "description": "Dig"
+      }
+    ]
+  },
+  {
+    "name": "SAFFARI",
+    "locations": [
+      {
+        "id": 190,
+        "coordinates": {
+          "x": 2195,
+          "y": 30635,
+          "z": 1
+        }
+      },
+      {
+        "id": 191,
+        "coordinates": {
+          "x": 2302,
+          "y": 30461,
+          "z": 9
+        },
+        "description": "Minigame 5 estatuas (Houndoom)"
+      },
+      {
+        "id": 192,
+        "coordinates": {
+          "x": 2297,
+          "y": 30605,
+          "z": 8
+        }
+      },
+      {
+        "id": 193,
+        "coordinates": {
+          "x": 2293,
+          "y": 30520,
+          "z": 7
+        },
+        "description": "Minigame 6 estatuas (Scyther)"
+      },
+      {
+        "id": 194,
+        "coordinates": {
+          "x": 2144,
+          "y": 30621,
+          "z": 6
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 195,
+        "coordinates": {
+          "x": 2220,
+          "y": 30477,
+          "z": 3
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 196,
+        "coordinates": {
+          "x": 2154,
+          "y": 30537,
+          "z": 5
+        }
+      },
+      {
+        "id": 197,
+        "coordinates": {
+          "x": 2213,
+          "y": 30522,
+          "z": 7
+        },
+        "description": "Fly"
+      }
+    ]
+  },
+  {
+    "name": "SAVANNA ISLAND",
+    "locations": [
+      {
+        "id": 198,
+        "coordinates": {
+          "x": 2882,
+          "y": 31091,
+          "z": 3
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 199,
+        "coordinates": {
+          "x": 2848,
+          "y": 31169,
+          "z": 6
+        },
+        "description": "Fly"
+      }
+    ]
+  },
+  {
+    "name": "SILVER TOWN",
+    "locations": [
+      {
+        "id": 200,
+        "coordinates": {
+          "x": 3703,
+          "y": 30241,
+          "z": 3
+        }
+      },
+      {
+        "id": 201,
+        "coordinates": {
+          "x": 3748,
+          "y": 30336,
+          "z": 3
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 202,
+        "coordinates": {
+          "x": 3792,
+          "y": 30367,
+          "z": 5
+        }
+      },
+      {
+        "id": 203,
+        "coordinates": {
+          "x": 3819,
+          "y": 30458,
+          "z": 7
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 204,
+        "coordinates": {
+          "x": 3716,
+          "y": 30321,
+          "z": 6
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 205,
+        "coordinates": {
+          "x": 3780,
+          "y": 30309,
+          "z": 4
+        }
+      },
+      {
+        "id": 206,
+        "coordinates": {
+          "x": 3819,
+          "y": 30246,
+          "z": 5
+        }
+      },
+      {
+        "id": 207,
+        "coordinates": {
+          "x": 3824,
+          "y": 30094,
+          "z": 3
+        },
+        "description": "Fly (montaña)"
+      },
+      {
+        "id": 208,
+        "coordinates": {
+          "x": 3731,
+          "y": 30129,
+          "z": 1
+        },
+        "description": "Fly (entrada)"
+      },
+      {
+        "id": 209,
+        "coordinates": {
+          "x": 3669,
+          "y": 30362,
+          "z": 5
+        },
+        "description": "Fly exacto → bajar nivel. Em 12/04/26, a ordem dos orbes foi modificada a partir deste ponto; os orbes 209 e 216 foram movidos e adicionados."
+      }
+    ]
+  },
+  {
+    "name": "SPARK ISLAND",
+    "locations": [
+      {
+        "id": 210,
+        "coordinates": {
+          "x": 3565,
+          "y": 30788,
+          "z": 6
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 211,
+        "coordinates": {
+          "x": 3616,
+          "y": 30827,
+          "z": 11
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 212,
+        "coordinates": {
+          "x": 3644,
+          "y": 30853,
+          "z": 9
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 213,
+        "coordinates": {
+          "x": 3666,
+          "y": 30793,
+          "z": 9
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 214,
+        "coordinates": {
+          "x": 3689,
+          "y": 30775,
+          "z": 12
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 215,
+        "coordinates": {
+          "x": 3581,
+          "y": 30784,
+          "z": 5
+        },
+        "description": "Fly"
+      }
+    ]
+  },
+  {
+    "name": "SEA",
+    "locations": [
+      {
+        "id": 216,
+        "coordinates": {
+          "x": 3644,
+          "y": 30856,
+          "z": 8
+        },
+        "description": "Fly (3644, 30853, 9). Em 12/04/26, a ordem dos orbes foi modificada a partir deste ponto; os orbes 209 e 216 foram movidos e adicionados."
+      }
+    ]
+  },
+  {
+    "name": "STAR ISLAND",
+    "locations": [
+      {
+        "id": 217,
+        "coordinates": {
+          "x": 3997,
+          "y": 30709,
+          "z": 7
+        },
+        "description": "Surf"
+      }
+    ]
+  },
+  {
+    "name": "SUNNY ISLAND",
+    "locations": [
+      {
+        "id": 218,
+        "coordinates": {
+          "x": 3156,
+          "y": 30559,
+          "z": 6
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 219,
+        "coordinates": {
+          "x": 3232,
+          "y": 30607,
+          "z": 5
+        }
+      },
+      {
+        "id": 220,
+        "coordinates": {
+          "x": 3340,
+          "y": 30718,
+          "z": 6
+        }
+      },
+      {
+        "id": 221,
+        "coordinates": {
+          "x": 3191,
+          "y": 30674,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "TANGLE ISLAND",
+    "locations": [
+      {
+        "id": 222,
+        "coordinates": {
+          "x": 2301,
+          "y": 29939,
+          "z": 3
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 223,
+        "coordinates": {
+          "x": 2318,
+          "y": 30035,
+          "z": 5
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 224,
+        "coordinates": {
+          "x": 2244,
+          "y": 30102,
+          "z": 5
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 225,
+        "coordinates": {
+          "x": 2390,
+          "y": 30002,
+          "z": 9
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 226,
+        "coordinates": {
+          "x": 2417,
+          "y": 29975,
+          "z": 6
+        }
+      }
+    ]
+  },
+  {
+    "name": "UNION CAVE",
+    "locations": [
+      {
+        "id": 227,
+        "coordinates": {
+          "x": 2996,
+          "y": 30762,
+          "z": 12
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 228,
+        "coordinates": {
+          "x": 3009,
+          "y": 30716,
+          "z": 10
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 229,
+        "coordinates": {
+          "x": 2972,
+          "y": 30730,
+          "z": 9
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 230,
+        "coordinates": {
+          "x": 3009,
+          "y": 30804,
+          "z": 9
+        },
+        "description": "Minigame itens elementales"
+      },
+      {
+        "id": 231,
+        "coordinates": {
+          "x": 3018,
+          "y": 30735,
+          "z": 9
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 232,
+        "coordinates": {
+          "x": 2927,
+          "y": 30794,
+          "z": 10
+        },
+        "description": "Cave Lapras"
+      },
+      {
+        "id": 233,
+        "coordinates": {
+          "x": 2963,
+          "y": 30798,
+          "z": 11
+        },
+        "description": "Cave Lapras"
+      }
+    ]
+  },
+  {
+    "name": "VICTORY ROAD",
+    "locations": [
+      {
+        "id": 234,
+        "coordinates": {
+          "x": 3585,
+          "y": 8980,
+          "z": 6
+        },
+        "description": "Camino Johto"
+      }
+    ]
+  },
+  {
+    "name": "VIOLET",
+    "locations": [
+      {
+        "id": 235,
+        "coordinates": {
+          "x": 3192,
+          "y": 30296,
+          "z": 6
+        },
+        "description": "Minigame NPC Gabriel"
+      },
+      {
+        "id": 236,
+        "coordinates": {
+          "x": 3049,
+          "y": 30179,
+          "z": 12
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 237,
+        "coordinates": {
+          "x": 3214,
+          "y": 30265,
+          "z": 6
+        },
+        "description": "Fly"
+      },
+      {
+        "id": 238,
+        "coordinates": {
+          "x": 3220,
+          "y": 30481,
+          "z": 8
+        }
+      },
+      {
+        "id": 239,
+        "coordinates": {
+          "x": 3252,
+          "y": 30400,
+          "z": 8
+        }
+      },
+      {
+        "id": 240,
+        "coordinates": {
+          "x": 3192,
+          "y": 30261,
+          "z": 4
+        },
+        "description": "Donar Sprout Tower"
+      }
+    ]
+  },
+  {
+    "name": "WHIRL ISLANDS",
+    "locations": [
+      {
+        "id": 241,
+        "coordinates": {
+          "x": 2500,
+          "y": 30721,
+          "z": 6
+        }
+      },
+      {
+        "id": 242,
+        "coordinates": {
+          "x": 2569,
+          "y": 30704,
+          "z": 11
+        },
+        "description": "Cave Crobat - Fly"
+      },
+      {
+        "id": 243,
+        "coordinates": {
+          "x": 2786,
+          "y": 30570,
+          "z": 11
+        },
+        "description": "Cave Kingler → Kingdra"
+      },
+      {
+        "id": 244,
+        "coordinates": {
+          "x": 2559,
+          "y": 30711,
+          "z": 8
+        },
+        "description": "Surf"
+      },
+      {
+        "id": 245,
+        "coordinates": {
+          "x": 2437,
+          "y": 30731,
+          "z": 7
+        },
+        "description": "Surf"
+      }
+    ]
+  },
+  {
+    "name": "EXTRA",
+    "locations": [
+      {
+        "id": 246,
+        "coordinates": {
+          "x": 2303,
+          "y": 31300,
+          "z": 10
+        }
+      },
+      {
+        "id": 247,
+        "coordinates": {
+          "x": 3117,
+          "y": 31314,
+          "z": 9
+        },
+        "description": "dar cut no mato (preicsa de surf, light, cut)"
+      },
+      {
+        "id": 248,
+        "coordinates": {
+          "x": 325,
+          "y": 50378,
+          "z": 3
+        },
+        "description": "Rainbow Hero Quest"
+      },
+      {
+        "id": 249,
+        "coordinates": {
+          "x": 2898,
+          "y": 30733,
+          "z": 8
+        }
+      },
+      {
+        "id": 250,
+        "coordinates": {
+          "x": 3017,
+          "y": 30132,
+          "z": 6
+        },
+        "description": "Entrada - (327, 38368, 5 ) Orb"
+      },
+      {
+        "id": 251,
+        "coordinates": null,
+        "description": "no final rainbow hero quest"
+      }
+    ]
+  }
+]
