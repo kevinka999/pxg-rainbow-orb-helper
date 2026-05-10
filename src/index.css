@@ -1,13 +1,27 @@
-:root {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
-  color: #111827;
-  background-color: #ffffff;
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+  --font-sans: "Sora", "Segoe UI", sans-serif;
+  --color-background: oklch(0.17 0.02 260);
+  --color-foreground: oklch(0.96 0.01 95);
+  --color-card: oklch(0.21 0.02 255 / 0.9);
+  --color-card-foreground: oklch(0.96 0.01 95);
+  --color-popover: oklch(0.21 0.02 255);
+  --color-popover-foreground: oklch(0.96 0.01 95);
+  --color-primary: oklch(0.73 0.18 52);
+  --color-primary-foreground: oklch(0.15 0.02 255);
+  --color-secondary: oklch(0.27 0.02 255);
+  --color-secondary-foreground: oklch(0.96 0.01 95);
+  --color-muted: oklch(0.24 0.02 255);
+  --color-muted-foreground: oklch(0.73 0.02 250);
+  --color-accent: oklch(0.3 0.03 245);
+  --color-accent-foreground: oklch(0.96 0.01 95);
+  --color-border: oklch(0.32 0.02 255);
+  --color-input: oklch(0.32 0.02 255);
+  --color-ring: oklch(0.73 0.18 52);
+  --color-success: oklch(0.75 0.16 150);
+  --radius: 1.5rem;
 }
 
 * {
@@ -22,6 +36,18 @@ body,
 
 body {
   margin: 0;
+  font-family: var(--font-sans);
+  line-height: 1.5;
+  font-weight: 400;
+  color: var(--color-foreground);
+  background:
+    radial-gradient(circle at top, rgba(251, 146, 60, 0.16), transparent 28%),
+    radial-gradient(circle at bottom left, rgba(59, 130, 246, 0.12), transparent 30%),
+    linear-gradient(180deg, #09090f 0%, #0f1020 48%, #111827 100%);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 main {
@@ -30,4 +56,73 @@ main {
 
 h1 {
   margin: 0;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+.idle-pulse-field {
+  animation: idle-border-pulse 2.8s ease-in-out infinite;
+}
+
+.group:hover .idle-pulse-field,
+.group:focus-visible .idle-pulse-field,
+.copy-success-field {
+  animation: none;
+}
+
+.copy-success-field {
+  animation: copy-success-pulse 520ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.copy-success-badge {
+  animation: copy-success-badge 520ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@keyframes copy-success-pulse {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 0 rgba(16, 185, 129, 0);
+  }
+  35% {
+    transform: scale(1.018);
+    box-shadow: 0 0 0.9rem rgba(16, 185, 129, 0.24);
+  }
+  100% {
+    transform: scale(1);
+    box-shadow: 0 0 0 rgba(16, 185, 129, 0);
+  }
+}
+
+@keyframes copy-success-badge {
+  0% {
+    opacity: 0;
+    transform: translateY(0.35rem) scale(0.92);
+  }
+  45% {
+    opacity: 1;
+    transform: translateY(-0.1rem) scale(1.04);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes idle-border-pulse {
+  0%,
+  100% {
+    border-color: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 0 0 rgba(251, 191, 36, 0);
+  }
+  50% {
+    border-color: rgba(251, 191, 36, 0.3);
+    box-shadow: 0 0 0.85rem rgba(251, 191, 36, 0.12);
+  }
+}
+
+::selection {
+  background: rgba(251, 146, 60, 0.24);
 }
